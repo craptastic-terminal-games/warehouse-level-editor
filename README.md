@@ -1,7 +1,7 @@
 # warehouse level editor
 simple level editor for warehouse robot.
 
-You can use this simple program to easily make levels for [Warehouse robot](https://github.com/craptastic-terminal-games/warehouse-robot)
+You can use this simple program to easily make levels for [Warehouse robot](https://github.com/return5/warehouse-robot)
 
 ### start up
   on start up you will be asked ot enter the width and height of your new level.
